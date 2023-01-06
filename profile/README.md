@@ -1,12 +1,6 @@
-## Hi there 👋
+## 안녕하세요. 응애 개발자 조직입니다. 👋
 
-<!--
+**이 조직은 [응애 개발자 카카오톡 채팅방](https://open.kakao.com/o/g0KRjYsc)과 [응애 개발자 디스코드 커뮤니티](https://discord.com/invite/q3wYj3nees)에 의해 생성되었습니다.**
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ 짧은 소개 - 이 조직은 개발에 열정과 흥미를 가지고 있는 개발자들을 위해 존재합니다.  
+🌈 기여방법 - 카카오톡 및 디스코드에 자유롭게 참여하시거나, 소스코드 기여도 자유롭습니다. 👏
